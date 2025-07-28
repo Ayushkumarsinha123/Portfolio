@@ -53,7 +53,7 @@ const Home = () => {
   };
 
   return (
-    <section className="flex items-center justify-center min-h-screen pt-20 px-6 animate-fade-in">
+    <section className="flex items-center justify-center min-h-screen pt-28 px-4 sm:px-6 md:px-10 animate-fade-in">
       <div className="container mx-auto grid md:grid-cols-2 gap-16 items-center">
         {/* Left Column: Hero Text & Actions */}
         <div
@@ -67,14 +67,14 @@ const Home = () => {
             onMouseLeave={handleLeftColumnMouseLeave}
             className="flex flex-col gap-6 items-start p-4"
           >
-            <h2 className="text-5xl md:text-6xl font-bold leading-tight">
+            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
               Konichiwa! <br />
               <span className="flex items-center gap-4">
                 This is Ayush,
                 <img
                   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF5cXJmYTNoejUxcmFucWR4MWE1cTcxNXJyMHJ5YnZvY2RiMG8zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"
                   alt="Typing GIF"
-                  className="w-24 h-24 rounded-md object-cover inline-block"
+                  className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 rounded-md object-cover inline-block"
                 />
               </span>
               I'm a <br />
