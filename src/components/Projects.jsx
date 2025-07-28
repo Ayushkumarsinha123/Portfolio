@@ -65,7 +65,7 @@ const Projects = () => {
       title: 'CodeDrona',
       description: 'Your AI Guru for DSA Enlightenment',
       tags: ['HTML', 'CSS', 'Javascript', 'Rest API'],
-      imageUrl: '../src/assets/CodeDrona.png',
+      imageUrl: '../src/assets/CodeDrona1.jpg',
       liveUrl: '#',
       githubUrl: 'https://github.com/Ayushkumarsinha123/CodeDrona'
     },
@@ -73,7 +73,7 @@ const Projects = () => {
       title: 'Vytals',
       description: 'Nearby Hospitals Finder for OPD Registration',
       tags: ['React', 'Tailwind CSS', 'Vite','express.js', 'node.js', 'mongoDB'],
-      imageUrl: '../src/assets/Vytals.png',
+      imageUrl: '../src/assets/Vytals1.jpg',
       liveUrl: '#',
       githubUrl: 'https://github.com/Ayushkumarsinha123/Vytals'
     },
@@ -81,7 +81,7 @@ const Projects = () => {
       title: 'Pokedex',
       description: 'This simple web app lets you search for any Pokémon.',
       tags: ['React', 'Tailwind CSS', 'API'],
-      imageUrl: '../src/assets/Pokedex.png',
+      imageUrl: '../src/assets/Pokedex1.jpg',
       liveUrl: '#',
       githubUrl: 'https://github.com/Ayushkumarsinha123/pokedex'
     }
